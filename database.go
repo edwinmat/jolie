@@ -1,6 +1,6 @@
 package main
 
-import "github.com/thethingsnetwork/server-shared"
+import "github.com/edwinmat/server-shared"
 
 type Database interface {
 	//FindApplication(id string) (*Application, error)

@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/thethingsnetwork/server-shared"
+	"github.com/edwinmat/server-shared"
 	"gopkg.in/mgo.v2"
 )
 

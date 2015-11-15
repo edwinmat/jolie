@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"github.com/streadway/amqp"
-	"github.com/thethingsnetwork/server-shared"
+	"github.com/edwinmat/server-shared"
 	"log"
 	"os"
 	"time"

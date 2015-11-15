@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/thethingsnetwork/server-shared"
+	"github.com/edwinmat/server-shared"
 	"log"
 	"net/http"
 )
